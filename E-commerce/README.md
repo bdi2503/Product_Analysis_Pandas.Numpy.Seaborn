@@ -16,6 +16,6 @@
 **[e_commerce_dmitriy_burykin.ipynb](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/blob/main/E-commerce/e_commerce_dmitriy_burykin.ipynb/ "Ссылка на проект")** 
 файле.
 
-**Tools: Python (Pandas, Seaborn, Matplotlib)**
+**Tools:** Python (Pandas, Seaborn, Matplotlib)
 
 
