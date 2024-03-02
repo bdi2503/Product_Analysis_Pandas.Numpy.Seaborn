@@ -1,7 +1,19 @@
-# New mechanics
-Purpose: To analyze the results of the experiment and conclude whether it is worth launching a new payment mechanism for all users.
-- Converted tables;
-- Conducted / In the test;
-- I made conclusions about the launch of a new online store payment mechanics (stat metrics. significantly increased), decided to launch a new payment mechanics for all users.
+# New_payment_mechanics
 
-**Tools: Python (Pandas, Numpy, Seaborn, Matplotlib)**
+В ходе тестирования одной гипотезы целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика. Необходимо проанализировать итоги эксперимента и сделать вывод, стоит ли запускать новую механику оплаты на всех пользователей. С данными можно ознакомиться в папке 
+**[data](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/tree/main/New_payment_mechanics/data/ "Ссылка на папку с данными")**.
+В проекте выполнены следующие **шаги к решению задачи:**
+
+1) Обзор и фильтрация данных;
+2) Оценка аудитории;
+3) Рассчет _конверсии_ в оплату от числа активных пользователей 2-ух групп. Проверка значений _конверсии_ на статистически значимое различие (Хи - Квадрат);
+4) Рассчет _среднего чека_ пользователей 2-ух групп. Проверка значений _среднего чека_ на статистически значимое различие (BOOTSTRAP);
+5) Рассчет _ARPU_ (средний доход от одного активного пользователя) пользователей 2-ух групп. Проверка значений _ARPU_ на статистически значимое различие (BOOTSTRAP);
+6) Оценка получившихся результатов;
+7) Вывод.
+   
+С проектом и подробным описанием каждого шага можно ознакомиться в 
+**[new_mechanics_burykin_dmitriy.ipynb](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/blob/main/New_payment_mechanics/new_mechanics_burykin_dmitriy.ipynb/ "Ссылка на проект")** 
+файле.
+
+**Tools**: Python (Pandas, Numpy, Seaborn, Matplotlib)
