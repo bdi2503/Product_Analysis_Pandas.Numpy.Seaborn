@@ -1,8 +1,21 @@
-# E-commerce
-Purpose: To analyze the purchases made by the online store.
-- Prepared descriptive statistics of online store data;
--  Built RFM Segmentation;
-- Conducted a cohort analysis over a one-year period and identified the cohort with the highest retention for the 3rd month.
+# E-commerce 
+
+В проектe проведен анализ работы интернет-магазина. Произведена загрузка данных и их подробный обзор. 
+С данными можно ознакомиться в папке 
+**[data](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/tree/main/E-commerce/data/ "Ссылка на папку с данными")**.
+Было определено, что будет считаться совершенной покупкой. 
+Выполнены следующие **задачи**:
+1) Определение количества пользователей, совершивших только одну покупку;
+2) Определение среднего количества недоставленных заказов в месяц;
+3) Определение по каждому товару, в какой день недели товар чаще всего покупается;
+4) Определение среднего кол-ва покупок пользователей в неделю (по месяцам);
+5) Когортный анализ пользователей. Выявляние когорты в период с января по декабрь с самым высоким retention на 3й месяц;
+6) Произведена RFM-сегментация и выполнена оценка аудитории.
+
+С проектом и подробным описанием каждого шага можно ознакомиться в 
+**[e_commerce_dmitriy_burykin.ipynb](https://github.com/bdi2503/Product_Analysis_Pandas.Numpy.Seaborn/blob/main/E-commerce/e_commerce_dmitriy_burykin.ipynb/ "Ссылка на проект")** 
+файле.
 
 **Tools: Python (Pandas, Seaborn, Matplotlib)**
+
 
