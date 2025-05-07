@@ -30,7 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/308d6b3a-0bca-4994-93b3-16ceaf3dfee0)
 
-### **3) Посчитать ключевые метрики, посмотрим на их динамику и составить небольшой отчет;**
+### **3) Посчитать ключевые метрики, посмотреть на их динамику и составить небольшой отчет;**
 
 ![image](https://github.com/user-attachments/assets/a8a8e234-e163-4afe-88a9-4e88ccac2c87)
 
