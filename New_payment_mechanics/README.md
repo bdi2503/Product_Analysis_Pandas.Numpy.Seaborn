@@ -1,4 +1,4 @@
-# New_payment_mechanics
+# New payment mechanics
 
 **Tools**: Python (Pandas, Numpy, Seaborn, Matplotlib)
 
